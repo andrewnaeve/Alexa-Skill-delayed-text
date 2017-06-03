@@ -1,3 +1,5 @@
 {
-  "askForRecipient": "Send message to whom"
+  "askForRecipient": "Send message to whom",
+  "askForMessage": "What message would you like to send",
+  "askForTime": "What time would you like to send it"
 }
